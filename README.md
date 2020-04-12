@@ -246,3 +246,13 @@ console.log(foo(5));
 [ลิงก์พร้อมแสดงไตเติ้ล](https://memokit.me "ลิงก์พร้อมแสดงไตเติ้ล")
 
 ใส่ลิงก์อัตโนมัติ https://memokit.me 
+
+# รูปภาพ (Images)
+
+![Indy](https://raw.githubusercontent.com/memokit/exam-markdown/master/790268.jpg)
+![Luffy](https://raw.githubusercontent.com/memokit/exam-markdown/master/790267.jpg "Luffy Cat")
+
+```md
+![Indy](https://raw.githubusercontent.com/memokit/exam-markdown/master/790268.jpg)
+![Luffy](https://raw.githubusercontent.com/memokit/exam-markdown/master/790267.jpg "Luffy Cat")
+```
