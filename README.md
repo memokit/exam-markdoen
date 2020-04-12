@@ -247,6 +247,22 @@ console.log(foo(5));
 
 ใส่ลิงก์อัตโนมัติ https://memokit.me 
 
+# เส้นแบ่ง, เส้นคั่น
+
+```
+---
+---
+---
+---
+---
+```
+
+---
+---
+---
+---
+---
+
 # รูปภาพ (Images)
 
 ![Indy](https://raw.githubusercontent.com/memokit/exam-markdown/master/790268.jpg)
